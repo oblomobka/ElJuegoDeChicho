@@ -1,5 +1,5 @@
 # El Juego De Chicho
-Sobre el juego de mesa "El juego de Chicho"
+Sobre el juego de mesa _El juego de Chicho_
 
 Juego rescatado de una escena de la película "Mientras el cuerpo aguante" (Fernando Trueba, 1981) que trata sobre Chicho Sánchez Ferlosio.
 El juego está siendo rediseñado y ampliado partiendo de las 136 piezas que se intuyen en la película.
